@@ -1,1 +1,1 @@
-# ch-ex
+`hi chrome extensions`
