@@ -1,10 +1,13 @@
-/*
-!/*/
+*
+
 !*.js
 !*.html
 !*.css
 !manifest.json
 !*.png
+
+!*/
+
 *.config
 config.*
 
