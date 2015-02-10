@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+	"name": "background-colorpeek",
+	"version": "1.0",
+
+	"description": "Get every background-color from current tab.",
+
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
+
+	"background": {
+		"scripts": ["event.js"],
+		"persistent": false
+	},
+
+	"permissions": ["<all_urls>"]
+
+	// http://css-tricks.com/colorpeek-part-2-building-first-chrome-extension/
+}
