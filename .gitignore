@@ -1,9 +1,13 @@
-*
-!/*
-*/*
+/*
+!/*/
 !*.js
 !*.html
 !*.css
 !manifest.json
 !*.png
+*.config
+config.*
+
+
 !README.md
+!.gitignore
