@@ -1,0 +1,1 @@
+``` automatically shorten urls on pasting ```
